@@ -1,3 +1,4 @@
+# complexity: time - O(n), where n - length of s | space - O(1)
 def countGoodSubstrings(s):
     k = 3
     win_start = 0
@@ -6,8 +7,8 @@ def countGoodSubstrings(s):
     for win_end in range(len(s)):
         win_size = win_end - win_start + 1
         if win_size >= k:
-            cur_str = s[win_start:win_end + 1]
-            if is_good_str(cur_str): counter += 1
+            cur_substr = s[win_start:win_end + 1]
+            if is_good_str(cur_substr): counter += 1
             win_start += 1
 
     return counter
