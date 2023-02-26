@@ -7,8 +7,8 @@ def divisorSubstrings(num, k):
     for win_end in range(len(nums)):
         win_size = win_end - win_start + 1
         if win_size >= k:
-            cur_num = int(nums[win_start: win_end + 1])
-            if is_divisor(num, cur_num): counter += 1
+            x = int(nums[win_start: win_end + 1])
+            if is_divisor(num, x): counter += 1
             win_start += 1
 
     return counter

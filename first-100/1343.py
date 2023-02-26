@@ -8,8 +8,8 @@ def numOfSubarrays(arr, k, threshold):
         win_sum += arr[win_end]
         win_size = win_end - win_start + 1
         if win_size >= k:
-            cur_average = win_sum / k
-            if cur_average >= threshold: counter += 1
+            average = win_sum / k
+            if average >= threshold: counter += 1
             win_sum -= arr[win_start]
             win_start += 1
 

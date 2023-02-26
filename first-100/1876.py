@@ -7,8 +7,8 @@ def countGoodSubstrings(s):
     for win_end in range(len(s)):
         win_size = win_end - win_start + 1
         if win_size >= k:
-            cur_substr = s[win_start:win_end + 1]
-            if is_good_str(cur_substr): counter += 1
+            substr = s[win_start:win_end + 1]
+            if is_good_str(substr): counter += 1
             win_start += 1
 
     return counter
