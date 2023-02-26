@@ -11,8 +11,8 @@ def findMaxAverage(nums, k):
         win_sum += nums[win_end]
         win_size = win_end - win_start + 1
         if win_size >= k:
-            average = win_sum / k
-            max_average = max(max_average, average)
+            cur_average = win_sum / k
+            max_average = max(max_average, cur_average)
             win_sum -= nums[win_start]
             win_start += 1
 
