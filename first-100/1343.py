@@ -1,4 +1,4 @@
-# complexity: time - O(n), where n - length of arr | space - O(1)
+# complexity: time - O(n) | space - O(1), where n - length of arr
 def numOfSubarrays(arr, k, threshold):
     win_start = 0
     win_sum = 0

@@ -1,4 +1,4 @@
-# complexity: time - O(n), where n - length of nums | space - O(1)
+# complexity: time - O(n) | space - O(1), where n - length of nums
 def divisorSubstrings(num, k):
     win_start = 0
     nums = str(num)

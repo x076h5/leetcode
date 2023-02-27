@@ -1,6 +1,7 @@
 import math
 
 
+# complexity: time - O(n) | space - O(1), where n - length of nums
 def minSubArrayLen(target, nums):
     win_start = 0
     win_sum = 0

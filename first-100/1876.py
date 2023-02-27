@@ -1,4 +1,4 @@
-# complexity: time - O(n), where n - length of s | space - O(1)
+# complexity: time - O(n) | space - O(1), where n - length of s
 def countGoodSubstrings(s):
     k = 3
     win_start = 0
