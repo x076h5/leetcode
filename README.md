@@ -7,4 +7,5 @@
 [1876. Substrings of Size Three with Distinct Characters](first-100/1876.py) \
 [2269. Find the K-Beauty of a Number](first-100/2269.py) \
 [1480. Running Sum of 1d Array](first-100/1480.py) \
-[206. Reverse Linked List](first-100/206.py)
+[206. Reverse Linked List](first-100/206.py) \
+[217. Contains Duplicate](first-100/217.py)
