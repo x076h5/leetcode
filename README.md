@@ -12,4 +12,5 @@
 [217. Contains Duplicate](first-100/217.py) \
 [242. Valid Anagram](first-100/242.py) \
 [704. Binary Search](first-100/704.py) \
+[374. Guess Number Higher or Lower](first-100/374.py) \
 [1672. Richest Customer Wealth](first-100/1672.py)
