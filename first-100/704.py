@@ -1,7 +1,7 @@
 from typing import List
 
 
-# complexity: time - O(log n) | space - O(1)
+# complexity: time - O(log n) | space - O(1), where n length of nums
 def search(nums: List[int], target: int) -> int:
     low = 0
     high = len(nums) - 1
