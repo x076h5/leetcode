@@ -2,6 +2,7 @@
 
 [3. Longest Substring Without Repeating Characters](first-100/3.py) \
 [1. Two Sum](first-100/1.py) \
+[852. Peak Index in a Mountain Array](first-100/852.py) \
 [209. Minimum Size Subarray Sum](first-100/209.py) \
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](first-100/1343.py) \
 [643. Maximum Average Subarray I](first-100/643.py) \
