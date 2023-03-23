@@ -17,7 +17,7 @@ class Solution:
         return right
 
 
-def is_greater_or_equal(a, b):
+def is_greater_or_equal(a: int, b: int) -> bool:
     return a >= b
 
 
