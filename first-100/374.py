@@ -1,17 +1,17 @@
-# complexity: time - O(log n) | space - O(1)
-def guessNumber(n: int) -> int:
-    low = 1
-    high = n
+# complexity: time - O(log n) | space - O(1), where n - length of nums
+class Solution:
+    def guessNumber(self, n: int) -> int:
+        left = 0
+        right = n + 1
 
-    while low <= high:
-        num = (low + high) // 2
-        pick = guess(num)
-        if pick == 0:
-            return num
-        elif pick == -1:
-            high = num - 1
-        else:
-            low = num + 1
+        while left + 1 < right:
+            mid = (left + right) // 2
+            if guess(mid) == - 1 or guess(mid) == 0:
+                right = mid
+            else:
+                left = mid
+
+        return right
 
 
 def guess(num: int) -> int:
@@ -22,5 +22,7 @@ def guess(num: int) -> int:
     return 0
 
 
-# print(guess(7))  # -1
-print(guessNumber(10))  # 6
+if __name__ == "__main__":
+    instance = Solution()
+    print(guess(7))  # -1
+    print(instance.guessNumber(10))  # 6
