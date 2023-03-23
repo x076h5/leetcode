@@ -1,25 +1,30 @@
 from typing import List
 
 
-def searchInsert(nums: List[int], target: int) -> int:
-    low = 0
-    high = len(nums) - 1
-    position = 0
+# complexity: time - O(log n) | space - O(1), where n - length of nums
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        left = -1
+        right = len(nums)
 
-    while low <= high:
-        candidate = (low + high) // 2
-        if target == nums[candidate]:
-            return candidate
-        elif target > nums[candidate]:
-            position = candidate + 1
-            low = candidate + 1
-        else:
-            position = candidate
-            high = candidate - 1
+        while left + 1 < right:
+            mid = (left + right) // 2
+            if is_greater_or_equal(nums[mid], target):
+                right = mid
+            else:
+                left = mid
 
-    return position
+        return right
 
 
-# print(searchInsert([1, 3, 5, 6], 5))  # 2
-print(searchInsert([1, 3, 5, 6], 2))    # 1
-print(searchInsert([1, 3, 5, 6], 7))    # 4
+def is_greater_or_equal(a, b):
+    return a >= b
+
+
+if __name__ == "__main__":
+    instance = Solution()
+    print(instance.searchInsert([1, 3, 5, 6], 5))  # 2
+    print(instance.searchInsert([1, 3, 5, 6], 2))  # 1
+    print(instance.searchInsert([1, 3, 5, 6], 7))  # 4
+    print(instance.searchInsert([1100, 1200, 1600, 1600, 1600, 3000, 4000], 1700))  # 5
+    print(instance.searchInsert([1100, 1200, 1600, 1600, 1600, 3000, 4000], 1600))  # 2
