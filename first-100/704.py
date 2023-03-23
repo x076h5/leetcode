@@ -17,7 +17,7 @@ class Solution:
         return right if right < len(nums) and nums[right] == target else -1
 
 
-def is_greater_or_equal(a, b):
+def is_greater_or_equal(a: int, b: int) -> bool:
     return a >= b
 
 
