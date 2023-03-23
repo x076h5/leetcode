@@ -1,4 +1,4 @@
-# complexity: time - O(log n) | space - O(1), where n - length of nums
+# complexity: time - O(log n) | space - O(1)
 class Solution:
     def guessNumber(self, n: int) -> int:
         left = 0
