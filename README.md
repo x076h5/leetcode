@@ -21,6 +21,7 @@
 [217. Contains Duplicate](first-100/217.py) \
 [242. Valid Anagram](first-100/242.py) \
 [191. Number of 1 Bits](first-100/191.py) \
+[771. Jewels and Stones](first-100/771.py) \
 [1491. Average Salary Excluding the Minimum and Maximum Salary](first-100/1491.py) \
 [1523. Count Odd Numbers in an Interval Range](first-100/1523.py) \
 [1281. Subtract the Product and Sum of Digits of an Integer](first-100/1281.py) \
