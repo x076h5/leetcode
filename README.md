@@ -27,4 +27,5 @@
 [1523. Count Odd Numbers in an Interval Range](first-100/1523.py) \
 [1281. Subtract the Product and Sum of Digits of an Integer](first-100/1281.py) \
 [1672. Richest Customer Wealth](first-100/1672.py) \
+[1351. Count Negative Numbers in a Sorted Matrix](first-100/1351.py) \
 [412. Fizz Buzz](first-100/412.py)
