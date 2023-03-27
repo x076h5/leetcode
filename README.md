@@ -3,6 +3,7 @@
 [103. Binary Tree Zigzag Level Order Traversal](first-100/103.py) \
 [102. Binary Tree Level Order Traversal](first-100/102.py) \
 [107. Binary Tree Level Order Traversal II](first-100/107.py) \
+[637. Average of Levels in Binary Tree](first-100/637.py) \
 [3. Longest Substring Without Repeating Characters](first-100/3.py) \
 [144. Binary Tree Preorder Traversal](first-100/144.py) \
 [1. Two Sum](first-100/1.py) \
