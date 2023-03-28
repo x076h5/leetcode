@@ -10,7 +10,7 @@ class TreeNode:
 
 
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         queue = deque()
         level_by_level = []
         if not root: return level_by_level
@@ -62,4 +62,4 @@ n5.right = n8
 
 if __name__ == "__main__":
     instance = Solution()
-    print(instance.levelOrder(n1))  # [[12], [1, 7], [9, 10, 5], [17, 20]]
+    print(instance.zigzagLevelOrder(n1))  # [[12], [1, 7], [9, 10, 5], [17, 20]]
