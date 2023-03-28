@@ -13,9 +13,9 @@ class Solution:
     def maxLevelSum(self, root: Optional[TreeNode]) -> int:
         queue = deque()
         queue.append(root)
-        level_res = 0
+        max_level_sum_index = 0
         cur_level = 0
-        max_level_sum = 0
+        max_level_sum = float("-inf")
 
         while len(queue):
             cur_level += 1
@@ -29,9 +29,9 @@ class Solution:
 
             if max_level_sum < level_sum:
                 max_level_sum = level_sum
-                level_res = cur_level
+                max_level_sum_index = cur_level
 
-        return level_res
+        return max_level_sum_index
 
 
 #      1
