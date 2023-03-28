@@ -4,6 +4,7 @@
 [102. Binary Tree Level Order Traversal](first-100/102.py) \
 [107. Binary Tree Level Order Traversal II](first-100/107.py) \
 [1161. Maximum Level Sum of a Binary Tree](first-100/1161.py) \
+[515. Find Largest Value in Each Tree Row](first-100/515.py) \
 [637. Average of Levels in Binary Tree](first-100/637.py) \
 [3. Longest Substring Without Repeating Characters](first-100/3.py) \
 [144. Binary Tree Preorder Traversal](first-100/144.py) \
