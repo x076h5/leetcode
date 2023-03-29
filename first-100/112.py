@@ -24,7 +24,6 @@ class Solution:
         return False
 
 
-
 #      1
 #     / \
 #   7     0
