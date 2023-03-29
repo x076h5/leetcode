@@ -2,6 +2,7 @@
 
 [103. Binary Tree Zigzag Level Order Traversal](first-100/103.py) \
 [199. Binary Tree Right Side View](first-100/199.py) \
+[116. Populating Next Right Pointers in Each Node](first-100/116.py) \
 [102. Binary Tree Level Order Traversal](first-100/102.py) \
 [107. Binary Tree Level Order Traversal II](first-100/107.py) \
 [1161. Maximum Level Sum of a Binary Tree](first-100/1161.py) \
