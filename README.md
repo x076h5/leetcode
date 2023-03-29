@@ -1,6 +1,7 @@
 [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="180"/>](https://leetcode.com/)
 
 [103. Binary Tree Zigzag Level Order Traversal](first-100/103.py) \
+[112. Path Sum](first-100/112.py) \
 [199. Binary Tree Right Side View](first-100/199.py) \
 [116. Populating Next Right Pointers in Each Node](first-100/116.py) \
 [102. Binary Tree Level Order Traversal](first-100/102.py) \
