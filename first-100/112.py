@@ -9,17 +9,17 @@ class TreeNode:
 
 
 class Solution:
-    def hasPathSum(self, root: Optional[TreeNode], target: int) -> bool:
-        stack, values = [[root, target]], []
+    def hasPathSum(self, root: Optional[TreeNode], target_sum: int) -> bool:
+        if not root: return False
+        stack = [[root, target_sum]]
 
         while len(stack):
-            arr = stack.pop()
-            cur, prev_sum = arr[0], arr[1]
-            new_sum = prev_sum - cur.val
-            if new_sum == 0 and not cur.right and not cur.left:
+            cur_node, prev_sum = stack.pop()
+            new_sum = prev_sum - cur_node.val
+            if new_sum == 0 and not cur_node.left and not cur_node.right:
                 return True
-            if cur.right: stack.append([cur.right, cur.val])
-            if cur.left: stack.append([cur.left, cur.val])
+            if cur_node.right: stack.append([cur_node.right, new_sum])
+            if cur_node.left: stack.append([cur_node.left, new_sum])
 
         return False
 
