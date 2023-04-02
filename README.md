@@ -4,6 +4,7 @@
 [112. Path Sum](first-100/112.py) \
 [113. Path Sum II](first-100/113.py) \
 [129. Sum Root to Leaf Numbers](first-100/129.py) \
+[257. Binary Tree Paths](first-100/257.py) \
 [199. Binary Tree Right Side View](first-100/199.py) \
 [116. Populating Next Right Pointers in Each Node](first-100/116.py) \
 [102. Binary Tree Level Order Traversal](first-100/102.py) \
@@ -43,4 +44,5 @@
 [1672. Richest Customer Wealth](first-100/1672.py) \
 [1351. Count Negative Numbers in a Sorted Matrix](first-100/1351.py) \
 [1470. Shuffle the Array](first-100/1470.py) \
+[1512. Number of Good Pairs](first-100/1512.py) \
 [412. Fizz Buzz](first-100/412.py)
