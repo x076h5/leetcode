@@ -1,5 +1,6 @@
 [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="180"/>](https://leetcode.com/)
 
+[841. Keys and Rooms](first-100/841.py) \
 [547. Number of Provinces](first-100/547.py) \
 [1971. Find if Path Exists in Graph](first-100/1971.py) \
 [103. Binary Tree Zigzag Level Order Traversal](first-100/103.py) \
