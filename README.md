@@ -21,7 +21,7 @@
 [3. Longest Substring Without Repeating Characters](first-100/3.py) \
 [144. Binary Tree Preorder Traversal](first-100/144.py) \
 [1. Two Sum](first-100/1.py) \
-[200. Number of Islands](first-100/200.py) \
+[200. Number of Islands](first-100/200/main.py) \
 [852. Peak Index in a Mountain Array](first-100/852.py)  \
 [704. Binary Search](first-100/704.py) \
 [35. Search Insert Position](first-100/35.py) \
