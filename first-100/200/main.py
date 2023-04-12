@@ -16,7 +16,7 @@ class Solution:
     def is_land(self, grid, row, col):
         return grid[row][col] == "1"
 
-    def coordinates_in_boinds(self, grid, row, col):
+    def coordinates_in_bounds(self, grid, row, col):
         row_in_bounds = 0 <= row < len(grid)
         col_in_bounds = 0 <= col < len(grid[0])
 
@@ -32,7 +32,7 @@ class Solution:
         ]
 
         for direction in directions:
-            if self.coordinates_in_boinds(grid, *direction) and self.is_land(grid, *direction):
+            if self.coordinates_in_bounds(grid, *direction) and self.is_land(grid, *direction):
                 self.mark_neighbors(grid, *direction)
 
         # if self.coordinates_in_boinds(grid, row + 1, col) and self.is_land(grid, row + 1, col):
