@@ -16,7 +16,7 @@ class Solution:
         neighbors = graph[vertex]
 
         for neighbor in neighbors:
-            if visited[neighbor] == 0:
+            if not visited[neighbor]:
                 self.dfs(graph, neighbor, visited)
 
     def get_adjacency_list(self, edges):
