@@ -4,7 +4,7 @@
 [463. Island Perimeter](first-100/463.py) \
 [841. Keys and Rooms](first-100/841.py) \
 [547. Number of Provinces](first-100/547.py) \
-[1971. Find if Path Exists in Graph](first-100/1971.py) \
+[1971. Find if Path Exists in Graph](first-100/1971/main.py) \
 [103. Binary Tree Zigzag Level Order Traversal](first-100/103.py) \
 [112. Path Sum](first-100/112.py) \
 [113. Path Sum II](first-100/113.py) \
