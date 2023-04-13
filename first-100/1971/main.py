@@ -6,19 +6,18 @@ class Solution:
     def validPath(self, n: int, edges: List[List[int]], start: int, finish: int) -> bool:
         graph = self.get_adjacency_list(edges)
         visited = [None] * n
-        return self.dfs(graph, start, finish, visited)
 
-    def dfs(self, graph, vertex, finish, visited):
-        if vertex == finish: return True
+        self.dfs(graph, start, visited)
+
+        return visited[finish] == 1
+
+    def dfs(self, graph, vertex, visited):
         visited[vertex] = 1
         neighbors = graph[vertex]
 
         for neighbor in neighbors:
             if not visited[neighbor]:
-                if self.dfs(graph, neighbor, finish, visited) == True:
-                    return True
-
-        return False
+                self.dfs(graph, neighbor, visited)
 
     def get_adjacency_list(self, edges):
         graph = defaultdict(list)
