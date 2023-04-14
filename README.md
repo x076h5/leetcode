@@ -1,11 +1,11 @@
 [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="180"/>](https://leetcode.com/)
 
-[695. Max Area of Island](first-100/695/main.py) \
+[695. Max Area of Island](first-100/695) \
 [463. Island Perimeter](first-100/463.py) \
 [841. Keys and Rooms](first-100/841.py) \
 [547. Number of Provinces](first-100/547.py) \
 [323. Number of Connected Components in an Undirected Graph](first-100/323) \
-[1971. Find if Path Exists in Graph](first-100/1971/main.py) \
+[1971. Find if Path Exists in Graph](first-100/1971) \
 [103. Binary Tree Zigzag Level Order Traversal](first-100/103.py) \
 [112. Path Sum](first-100/112.py) \
 [113. Path Sum II](first-100/113.py) \
@@ -23,7 +23,7 @@
 [3. Longest Substring Without Repeating Characters](first-100/3.py) \
 [144. Binary Tree Preorder Traversal](first-100/144.py) \
 [1. Two Sum](first-100/1.py) \
-[200. Number of Islands](first-100/200/main.py) \
+[200. Number of Islands](first-100/200) \
 [852. Peak Index in a Mountain Array](first-100/852.py)  \
 [704. Binary Search](first-100/704.py) \
 [35. Search Insert Position](first-100/35.py) \
