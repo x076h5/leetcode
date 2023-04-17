@@ -1,5 +1,6 @@
 [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="180"/>](https://leetcode.com/)
 
+[210. Course Schedule II](first-100/210) \
 [695. Max Area of Island](first-100/695) \
 [463. Island Perimeter](first-100/463.py) \
 [841. Keys and Rooms](first-100/841.py) \
