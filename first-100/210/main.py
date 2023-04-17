@@ -45,7 +45,5 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.findOrder(4, [[1, 0], [2, 0], [3, 1], [3, 2]]))
-    # print(s.get_adjacency_list(4, [[1, 0], [2, 0], [3, 1], [3, 2]]))
-    # print(s.get_adjacency_list(2, []))
-    print(s.findOrder(2, []))
+    print(s.findOrder(4, [[1, 0], [2, 0], [3, 1], [3, 2]]))  # [0, 2, 1, 3] or [0, 1, 2, 3]
+    print(s.findOrder(2, []))  # [0, 1] or [1, 0]
