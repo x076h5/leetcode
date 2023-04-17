@@ -15,6 +15,6 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.fib(4))  # 1, 1, 2, 3
+    print(s.fib(4))  # 3
     print(s.fib(2))  # 1
     print(s.fib(3))  # 2
