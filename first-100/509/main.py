@@ -3,14 +3,14 @@ class Solution:
         if n == 0: return 0
         if n == 1: return 1
 
-        sequence = [0] * n
-        sequence[0] = 1
-        sequence[1] = 1
+        seq = [0] * n
+        seq[0] = 1
+        seq[1] = 1
 
         for i in range(2, n):
-            sequence[i] = sequence[i - 1] + sequence[i - 2]
+            seq[i] = seq[i - 1] + seq[i - 2]
 
-        return sequence[-1]
+        return seq[-1]
 
 
 if __name__ == "__main__":
