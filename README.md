@@ -36,6 +36,7 @@
 [34. Find First and Last Position of Element in Sorted Array](first-100/34.py) \
 [69. Sqrt(x)](first-100/69.py) \
 [509. Fibonacci Number](first-100/509) \
+[1137. N-th Tribonacci Number](first-100/1137) \
 [367. Valid Perfect Square](first-100/367.py) \
 [209. Minimum Size Subarray Sum](first-100/209.py) \
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](first-100/1343.py) \
