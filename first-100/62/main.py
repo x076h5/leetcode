@@ -6,8 +6,6 @@ class Solution:
             for j in range(1, cols):
                 matrix[i][j] = matrix[i - 1][j] + matrix[i][j - 1]
 
-        print(matrix)
-
         return matrix[-1][-1]
 
 
