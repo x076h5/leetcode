@@ -27,6 +27,7 @@
 [144. Binary Tree Preorder Traversal](first-100/144.py) \
 [62. Unique Paths](first-100/62) \
 [1. Two Sum](first-100/1.py) \
+[198. House Robber](first-100/198) \
 [70. Climbing Stairs](first-100/70) \
 [200. Number of Islands](first-100/200) \
 [852. Peak Index in a Mountain Array](first-100/852.py)  \
