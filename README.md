@@ -30,6 +30,7 @@
 [198. House Robber](first-100/198) \
 [70. Climbing Stairs](first-100/70) \
 [200. Number of Islands](first-100/200) \
+[121. Best Time to Buy and Sell Stock](first-100/121) \
 [852. Peak Index in a Mountain Array](first-100/852.py)  \
 [704. Binary Search](first-100/704.py) \
 [35. Search Insert Position](first-100/35.py) \
