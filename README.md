@@ -52,6 +52,7 @@
 [206. Reverse Linked List](first-100/206.py) \
 [217. Contains Duplicate](first-100/217.py) \
 [242. Valid Anagram](first-100/242.py) \
+[977. Squares of a Sorted Array](first-100/977) \
 [2300. Successful Pairs of Spells and Potions](first-100/2300.py) \
 [191. Number of 1 Bits](first-100/191.py) \
 [771. Jewels and Stones](first-100/771.py) \
