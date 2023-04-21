@@ -64,4 +64,5 @@
 [1351. Count Negative Numbers in a Sorted Matrix](first-100/1351.py) \
 [1470. Shuffle the Array](first-100/1470.py) \
 [1512. Number of Good Pairs](first-100/1512.py) \
+[485. Max Consecutive Ones](first-100/485) \
 [412. Fizz Buzz](first-100/412.py)
