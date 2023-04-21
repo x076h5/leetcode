@@ -65,4 +65,5 @@
 [1470. Shuffle the Array](first-100/1470.py) \
 [1512. Number of Good Pairs](first-100/1512.py) \
 [485. Max Consecutive Ones](first-100/485) \
+[1295. Find Numbers with Even Number of Digits](first-100/1295) \
 [412. Fizz Buzz](first-100/412.py)
