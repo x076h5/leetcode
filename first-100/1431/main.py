@@ -3,11 +3,11 @@ from typing import List
 
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        candie_count = len(candies)
-        result = [False] * candie_count
+        kid_count = len(candies)
+        result = [False] * kid_count
         max_candie_count = max(candies)
 
-        for i in range(candie_count):
+        for i in range(kid_count):
             if candies[i] + extraCandies >= max_candie_count:
                 result[i] = True
 
