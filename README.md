@@ -68,4 +68,5 @@
 [485. Max Consecutive Ones](first-100/485) \
 [1295. Find Numbers with Even Number of Digits](first-100/1295) \
 [1929. Concatenation of Array](first-100/1929) \
+[1431. Kids With the Greatest Number of Candies](first-100/1431) \
 [412. Fizz Buzz](first-100/412.py)
