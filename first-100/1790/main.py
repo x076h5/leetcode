@@ -17,4 +17,4 @@ if __name__ == "__main__":
     s = Solution()
     print(s.areAlmostEqual("bank", "kanb"))  # True
     print(s.areAlmostEqual("kelb", "kelb"))  # True
-    print(s.areAlmostEqual("aa", "ac"))  # False
+    print(s.areAlmostEqual("aa", "ac"))      # False
