@@ -38,6 +38,7 @@
 [704. Binary Search](first-100/704.py) \
 [344. Reverse String](first-100/344) \
 [136. Single Number](first-100/136) \
+[237. Delete Node in a Linked List](first-100/237) \
 [104. Maximum Depth of Binary Tree](first-100/104) \
 [35. Search Insert Position](first-100/35.py) \
 [374. Guess Number Higher or Lower](first-100/374.py) \
