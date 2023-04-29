@@ -36,6 +36,7 @@
 [121. Best Time to Buy and Sell Stock](first-100/121) \
 [852. Peak Index in a Mountain Array](first-100/852.py)  \
 [704. Binary Search](first-100/704.py) \
+[344. Reverse String](first-100/344) \
 [35. Search Insert Position](first-100/35.py) \
 [374. Guess Number Higher or Lower](first-100/374.py) \
 [278. First Bad Version](first-100/278.py) \
