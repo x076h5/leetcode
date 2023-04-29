@@ -20,7 +20,6 @@ class Solution:
             lh = self.height(cur.left)
             rh = self.height(cur.right)
             if abs(lh - rh) > 1: return False
-            # print(cur.val, lh, rh)
             if cur.left: queue.append(cur.left)
             if cur.right: queue.append(cur.right)
 
