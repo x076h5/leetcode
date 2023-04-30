@@ -60,6 +60,7 @@
 [217. Contains Duplicate](first-100/217.py) \
 [242. Valid Anagram](first-100/242.py) \
 [977. Squares of a Sorted Array](first-100/977) \
+[58. Length of Last Word](first-100/58) \
 [2300. Successful Pairs of Spells and Potions](first-100/2300.py) \
 [191. Number of 1 Bits](first-100/191.py) \
 [771. Jewels and Stones](first-100/771.py) \
