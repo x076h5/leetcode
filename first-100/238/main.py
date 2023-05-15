@@ -1,23 +1,24 @@
-from typing import List
-
-
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
+    def productExceptSelf(self, nums):
         num_count = len(nums)
-        result = [1] * num_count
-        left_product = [1] * num_count
-        right_product = [1] * num_count
+        res = [1] * num_count
+        prefixProduct = [1] * num_count
+        postfixProduct = [1] * num_count
 
         for i in range(1, num_count):
-            left_product[i] = left_product[i - 1] * nums[i - 1]
+            prevProduct = prefixProduct[i - 1]
+            prevNum = nums[i - 1]
+            prefixProduct[i] = prevProduct * prevNum
 
         for i in range(num_count - 2, -1, -1):
-            right_product[i] = right_product[i + 1] * nums[i + 1]
+            prevProduct = postfixProduct[i + 1]
+            prevNum = nums[i + 1]
+            postfixProduct[i] = prevProduct * prevNum
 
         for i in range(num_count):
-            result[i] = right_product[i] * left_product[i]
+            res[i] = prefixProduct[i] * postfixProduct[i]
 
-        return result
+        return res
 
 
 if __name__ == "__main__":
