@@ -27,6 +27,7 @@
 [3. Longest Substring Without Repeating Characters](first-100/3.py) \
 [144. Binary Tree Preorder Traversal](first-100/144.py) \
 [62. Unique Paths](first-100/62) \
+[347. Top K Frequent Elements](first-100\347) \
 [49. Group Anagrams](first-100/49) \
 [110. Balanced Binary Tree](first-100/110) \
 [1. Two Sum](first-100/1.py) \
