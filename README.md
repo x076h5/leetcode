@@ -52,6 +52,7 @@
 [744. Find Smallest Letter Greater Than Target](first-100/744.py) \
 [34. Find First and Last Position of Element in Sorted Array](first-100/34.py) \
 [69. Sqrt(x)](first-100/69.py) \
+[387. First Unique Character in a String](first-100/387) \
 [509. Fibonacci Number](first-100/509) \
 [1137. N-th Tribonacci Number](first-100/1137) \
 [367. Valid Perfect Square](first-100/367.py) \
