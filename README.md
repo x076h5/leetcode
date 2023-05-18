@@ -57,6 +57,7 @@
 [509. Fibonacci Number](first-100/509) \
 [1137. N-th Tribonacci Number](first-100/1137) \
 [367. Valid Perfect Square](first-100/367.py) \
+[15. 3Sum](first-100/15) \
 [209. Minimum Size Subarray Sum](first-100/209.py) \
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](first-100/1343.py) \
 [643. Maximum Average Subarray I](first-100/643.py) \
