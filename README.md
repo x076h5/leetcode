@@ -32,6 +32,7 @@
 [451. Sort Characters By Frequency](first-100/451) \
 [49. Group Anagrams](first-100/49) \
 [110. Balanced Binary Tree](first-100/110) \
+[155. Min Stack](first-100/155) \ 
 [1. Two Sum](first-100/1.py) \
 [198. House Robber](first-100/198) \
 [70. Climbing Stairs](first-100/70) \
