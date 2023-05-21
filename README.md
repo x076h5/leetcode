@@ -4,6 +4,7 @@
 [207. Course Schedule](first-100/207) \
 [695. Max Area of Island](first-100/695) \
 [463. Island Perimeter](first-100/463.py) \
+[24. Swap Nodes in Pairs](first-100/24) \
 [64. Minimum Path Sum](first-100/64) \
 [841. Keys and Rooms](first-100/841.py) \
 [547. Number of Provinces](first-100/547.py) \
