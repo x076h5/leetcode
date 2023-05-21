@@ -38,4 +38,4 @@ if __name__ == "__main__":
 
     instance = Solution()
     result = instance.swapPairs(head)
-    print(result)  # 2->1-4-3
+    print(result)  # 2->1->4->3
