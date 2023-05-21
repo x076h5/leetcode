@@ -33,7 +33,7 @@
 [451. Sort Characters By Frequency](first-100/451) \
 [49. Group Anagrams](first-100/49) \
 [110. Balanced Binary Tree](first-100/110) \
-[155. Min Stack](first-100/155) \ 
+[155. Min Stack](first-100/155) \
 [1. Two Sum](first-100/1.py) \
 [198. House Robber](first-100/198) \
 [70. Climbing Stairs](first-100/70) \
@@ -61,6 +61,7 @@
 [1137. N-th Tribonacci Number](first-100/1137) \
 [367. Valid Perfect Square](first-100/367.py) \
 [15. 3Sum](first-100/15) \
+[21. Merge Two Sorted Lists](first-100/21) \
 [209. Minimum Size Subarray Sum](first-100/209.py) \
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](first-100/1343.py) \
 [643. Maximum Average Subarray I](first-100/643.py) \
