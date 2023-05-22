@@ -28,7 +28,7 @@
 [515. Find Largest Value in Each Tree Row](first-100/515.py) \
 [637. Average of Levels in Binary Tree](first-100/637.py) \
 [3. Longest Substring Without Repeating Characters](first-100/3.py) \
-[144. Binary Tree Preorder Traversal](first-100/144.py) \
+[144. Binary Tree Preorder Traversal](first-100/144) \
 [62. Unique Paths](first-100/62) \
 [692. Top K Frequent Words](first-100/692) \
 [347. Top K Frequent Elements](first-100\347) \
