@@ -23,11 +23,18 @@ class Solution:
 # recursive
 # class Solution:
 #     def preorderTraversal(self, node):
-#         if not node: return
+#         res = []
 #
-#         print(node.val)
-#         self.preorderTraversal(node.left)
-#         self.preorderTraversal(node.right)
+#         def traversal(node, res):
+#             if not node: return
+#
+#             res.append(node.val)
+#             traversal(node.left, res)
+#             traversal(node.right, res)
+#
+#         traversal(node, res)
+#
+#         return res
 
 
 #      a
