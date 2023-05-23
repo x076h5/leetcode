@@ -9,6 +9,7 @@
 [64. Minimum Path Sum](first-100/64) \
 [841. Keys and Rooms](first-100/841.py) \
 [547. Number of Provinces](first-100/547.py) \
+[988. Smallest String Starting From Leaf](first-100/988) \
 [323. Number of Connected Components in an Undirected Graph](first-100/323) \
 [1971. Find if Path Exists in Graph](first-100/1971) \
 [103. Binary Tree Zigzag Level Order Traversal](first-100/103.py) \
