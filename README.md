@@ -32,6 +32,7 @@
 [3. Longest Substring Without Repeating Characters](first-100/3.py) \
 [144. Binary Tree Preorder Traversal](first-100/144) \
 [62. Unique Paths](first-100/62) \
+[501. Find Mode in Binary Search Tree](first-100/501) \
 [404. Sum of Left Leaves](first-100/404) \
 [692. Top K Frequent Words](first-100/692) \
 [347. Top K Frequent Elements](first-100\347) \
