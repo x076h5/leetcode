@@ -1,6 +1,3 @@
-from typing import Optional
-
-
 class TreeNode:
     def __init__(self, val, left=None, right=None):
         self.val = val
@@ -9,7 +6,7 @@ class TreeNode:
 
 
 class Solution:
-    def hasPathSum(self, root: Optional[TreeNode], target_sum: int) -> bool:
+    def hasPathSum(self, root, target_sum):
         if not root: return False
         stack = [[root, target_sum]]
 
@@ -24,24 +21,12 @@ class Solution:
         return False
 
 
-#      1
-#     / \
-#   7     0
-#  / \
-# 7  -7
-
-
-n1 = TreeNode(1)
-n2 = TreeNode(7)
-n3 = TreeNode(0)
-n4 = TreeNode(7)
-n5 = TreeNode(-8)
-
-n1.left = n2
-n1.right = n3
-n2.left = n4
-n2.right = n5
-
 if __name__ == "__main__":
+    root = TreeNode(1)
+    root.left = TreeNode(7)
+    root.right = TreeNode(0)
+    root.left.left = TreeNode(7)
+    root.left.right = TreeNode(-8)
+
     instance = Solution()
-    print(instance.hasPathSum(n1, 15))  # True
+    print(instance.hasPathSum(root, 15))  # True
