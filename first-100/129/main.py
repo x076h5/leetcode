@@ -1,6 +1,3 @@
-from typing import Optional
-
-
 class TreeNode:
     def __init__(self, val, left=None, right=None):
         self.val = val
@@ -9,10 +6,8 @@ class TreeNode:
 
 
 class Solution:
-    def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        if not root: return False
-        stack = [[root, 0]]
-        res = 0
+    def sumNumbers(self, root):
+        stack, res = [[root, 0]], 0
 
         while len(stack):
             cur, prev_sum = stack.pop()
@@ -25,19 +20,12 @@ class Solution:
         return res
 
 
-#      4
-#     / \
-#   9     0
-#  / \
-# 5   1
-
-
-root = TreeNode(4)
-root.left = TreeNode(9)
-root.right = TreeNode(0)
-root.left.left = TreeNode(5)
-root.left.right = TreeNode(1)
-
 if __name__ == "__main__":
+    root = TreeNode(4)
+    root.left = TreeNode(9)
+    root.right = TreeNode(0)
+    root.left.left = TreeNode(5)
+    root.left.right = TreeNode(1)
+
     instance = Solution()
-    print(instance.sumNumbers(root))
+    print(instance.sumNumbers(root))  # 1026

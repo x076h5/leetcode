@@ -14,7 +14,7 @@
 [103. Binary Tree Zigzag Level Order Traversal](first-100/103.py) \
 [112. Path Sum](first-100/112.py) \
 [113. Path Sum II](first-100/113.py) \
-[129. Sum Root to Leaf Numbers](first-100/129.py) \
+[129. Sum Root to Leaf Numbers](first-100/129) \
 [257. Binary Tree Paths](first-100/257.py) \
 [199. Binary Tree Right Side View](first-100/199.py) \
 [116. Populating Next Right Pointers in Each Node](first-100/116.py) \
