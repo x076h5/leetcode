@@ -12,7 +12,7 @@
 [323. Number of Connected Components in an Undirected Graph](first-100/323) \
 [1971. Find if Path Exists in Graph](first-100/1971) \
 [103. Binary Tree Zigzag Level Order Traversal](first-100/103.py) \
-[112. Path Sum](first-100/112.py) \
+[112. Path Sum](first-100/112) \
 [113. Path Sum II](first-100/113.py) \
 [129. Sum Root to Leaf Numbers](first-100/129) \
 [257. Binary Tree Paths](first-100/257.py) \
