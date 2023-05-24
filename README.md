@@ -83,6 +83,7 @@
 [167. Two Sum II - Input Array Is Sorted](first-100/167) \
 [242. Valid Anagram](first-100/242.py) \
 [977. Squares of a Sorted Array](first-100/977) \
+[671. Second Minimum Node In a Binary Tree](first-100/671) \
 [11. Container With Most Water](first-100/11) \
 [58. Length of Last Word](first-100/58) \
 [1380. Lucky Numbers in a Matrix](first-100/1380) \
