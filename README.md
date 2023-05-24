@@ -51,6 +51,7 @@
 [852. Peak Index in a Mountain Array](first-100/852.py)  \
 [704. Binary Search](first-100/704.py) \
 [344. Reverse String](first-100/344) \
+[1022. Sum of Root To Leaf Binary Numbers](first-100/1022)
 [136. Single Number](first-100/136) \
 [965. Univalued Binary Tree](first-100/965) \
 [20. Valid Parentheses](first-100/20) \
