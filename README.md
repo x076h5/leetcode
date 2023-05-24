@@ -107,3 +107,4 @@
 [1929. Concatenation of Array](first-100/1929) \
 [1431. Kids With the Greatest Number of Candies](first-100/1431) \
 [412. Fizz Buzz](first-100/412.py)
+[2236. Root Equals Sum of Children](first-100/2236)
