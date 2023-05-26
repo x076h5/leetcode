@@ -110,6 +110,7 @@
 [1295. Find Numbers with Even Number of Digits](first-100/1295) \
 [1929. Concatenation of Array](first-100/1929) \
 [326. Power of Three](first-100/326) \
+[231. Power of Two](first-100/231) \
 [1431. Kids With the Greatest Number of Candies](first-100/1431) \
 [412. Fizz Buzz](first-100/412.py) \
 [2236. Root Equals Sum of Children](first-100/2236)
