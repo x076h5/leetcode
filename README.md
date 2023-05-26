@@ -44,6 +44,7 @@
 [155. Min Stack](first-100/155) \
 [1. Two Sum](first-100/1.py) \
 [198. House Robber](first-100/198) \
+[572. Subtree of Another Tree](first-100/572) \
 [70. Climbing Stairs](first-100/70) \
 [53. Maximum Subarray](first-100/53) \
 [617. Merge Two Binary Trees](first-100/617) \
