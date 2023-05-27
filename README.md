@@ -116,6 +116,7 @@
 [1929. Concatenation of Array](first-100/1929) \
 [1678. Goal Parser Interpretation](first-100/1678) \
 [342. Power of Four](first-100/342) \
+[1662. Check If Two String Arrays are Equivalent](first-100/1662) \
 [326. Power of Three](first-100/326) \
 [231. Power of Two](first-100/231) \
 [1431. Kids With the Greatest Number of Candies](first-100/1431) \
