@@ -87,6 +87,7 @@
 [671. Second Minimum Node In a Binary Tree](first-100/671) \
 [11. Container With Most Water](first-100/11) \
 [58. Length of Last Word](first-100/58) \
+[1684. Count the Number of Consistent Strings](first-100/1684) \
 [1380. Lucky Numbers in a Matrix](first-100/1380) \
 [2351. First Letter to Appear Twice](first-100/2351) \
 [189. Rotate Array](first-100/189) \
