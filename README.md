@@ -37,7 +37,7 @@
 [501. Find Mode in Binary Search Tree](first-100/501) \
 [404. Sum of Left Leaves](first-100/404) \
 [692. Top K Frequent Words](first-100/692) \
-[347. Top K Frequent Elements](first-100\347) \
+[347. Top K Frequent Elements](first-100/347) \
 [451. Sort Characters By Frequency](first-100/451) \
 [49. Group Anagrams](first-100/49) \
 [110. Balanced Binary Tree](first-100/110) \
