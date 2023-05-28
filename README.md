@@ -116,6 +116,7 @@
 [1929. Concatenation of Array](first-100/1929) \
 [1678. Goal Parser Interpretation](first-100/1678) \
 [342. Power of Four](first-100/342) \
+[1486. XOR Operation in an Array](first-100/1486) \
 [1662. Check If Two String Arrays are Equivalent](first-100/1662) \
 [326. Power of Three](first-100/326) \
 [231. Power of Two](first-100/231) \
