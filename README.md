@@ -37,6 +37,7 @@
 [501. Find Mode in Binary Search Tree](first-100/501) \
 [404. Sum of Left Leaves](first-100/404) \
 [938. Range Sum of BST](first-100/938) \
+[700. Search in a Binary Search Tree](first-100/700) \
 [692. Top K Frequent Words](first-100/692) \
 [347. Top K Frequent Elements](first-100/347) \
 [451. Sort Characters By Frequency](first-100/451) \
