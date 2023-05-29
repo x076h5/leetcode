@@ -124,4 +124,5 @@
 [231. Power of Two](first-100/231) \
 [1431. Kids With the Greatest Number of Candies](first-100/1431) \
 [412. Fizz Buzz](first-100/412.py) \
-[2236. Root Equals Sum of Children](first-100/2236)
+[2236. Root Equals Sum of Children](first-100/2236) \
+[1757. Recyclable and Low Fat Products](first-100/1757)
