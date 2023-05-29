@@ -125,4 +125,5 @@
 [1431. Kids With the Greatest Number of Candies](first-100/1431) \
 [412. Fizz Buzz](first-100/412.py) \
 [2236. Root Equals Sum of Children](first-100/2236) \
+[1741. Find Total Time Spent by Each Employee](first-100/1741) \
 [1757. Recyclable and Low Fat Products](first-100/1757)
