@@ -118,6 +118,7 @@
 [1295. Find Numbers with Even Number of Digits](first-100/1295) \
 [1929. Concatenation of Array](first-100/1929) \
 [1678. Goal Parser Interpretation](first-100/1678) \
+[9. Palindrome Number](first-100/9) \
 [342. Power of Four](first-100/342) \
 [1486. XOR Operation in an Array](first-100/1486) \
 [1662. Check If Two String Arrays are Equivalent](first-100/1662) \
