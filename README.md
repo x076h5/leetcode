@@ -114,6 +114,7 @@
 [145. Binary Tree Postorder Traversal](first-100/145) \
 [94. Binary Tree Inorder Traversal](first-100/94) \
 [485. Max Consecutive Ones](first-100/485) \
+[322. Coin Change](first-100/322) \
 [1790. Check if One String Swap Can Make Strings Equal](first-100/1790) \
 [1295. Find Numbers with Even Number of Digits](first-100/1295) \
 [1929. Concatenation of Array](first-100/1929) \
