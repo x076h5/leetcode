@@ -31,7 +31,7 @@ class Solution:
 #     / \
 #   7     0
 #  / \
-# 7  -8
+# 7  -7
 
 
 n1 = TreeNode(1)
