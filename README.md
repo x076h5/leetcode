@@ -104,7 +104,7 @@
 [1491. Average Salary Excluding the Minimum and Maximum Salary](first-100/1491.py) \
 [1523. Count Odd Numbers in an Interval Range](first-100/1523.py) \
 [1281. Subtract the Product and Sum of Digits of an Integer](first-100/1281.py) \
-[1672. Richest Customer Wealth](first-100/1672.py) \
+[1672. Richest Customer Wealth](first-100/1672) \
 [1351. Count Negative Numbers in a Sorted Matrix](first-100/1351.py) \
 [1470. Shuffle the Array](first-100/1470.py) \
 [1603. Design Parking System](first-100/1603) \
