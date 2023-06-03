@@ -99,7 +99,7 @@
 [771. Jewels and Stones](first-100/771) \
 [350. Intersection of Two Arrays II](first-100/350) \
 [1342. Number of Steps to Reduce a Number to Zero](first-100/1342.py) \
-[1748. Sum of Unique Elements](first-100/1748.py) \
+[1748. Sum of Unique Elements](first-100/1748) \
 [125. Valid Palindrome](first-100/125) \
 [1491. Average Salary Excluding the Minimum and Maximum Salary](first-100/1491.py) \
 [1523. Count Odd Numbers in an Interval Range](first-100/1523.py) \
