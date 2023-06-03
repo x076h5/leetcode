@@ -27,7 +27,7 @@
 [872. Leaf-Similar Trees](first-100/872) \
 [102. Binary Tree Level Order Traversal](first-100/102.py) \
 [107. Binary Tree Level Order Traversal II](first-100/107.py) \
-[1161. Maximum Level Sum of a Binary Tree](first-100/1161.py) \
+[1161. Maximum Level Sum of a Binary Tree](first-100/main.py/1161.py) \
 [111. Minimum Depth of Binary Tree](first-100/111) \
 [515. Find Largest Value in Each Tree Row](first-100/515.py) \
 [637. Average of Levels in Binary Tree](first-100/637.py) \
