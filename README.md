@@ -78,7 +78,7 @@
 [21. Merge Two Sorted Lists](first-100/21) \
 [209. Minimum Size Subarray Sum](first-100/209) \
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](first-100/1343.py) \
-[643. Maximum Average Subarray I](first-100/643.py) \
+[643. Maximum Average Subarray I](first-100/643) \
 [1876. Substrings of Size Three with Distinct Characters](first-100/1876) \
 [2269. Find the K-Beauty of a Number](first-100/2269.py) \
 [1480. Running Sum of 1d Array](first-100/1480.py) \
