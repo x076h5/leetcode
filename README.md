@@ -13,7 +13,7 @@
 [988. Smallest String Starting From Leaf](first-100/988) \
 [323. Number of Connected Components in an Undirected Graph](first-100/323) \
 [1971. Find if Path Exists in Graph](first-100/1971) \
-[103. Binary Tree Zigzag Level Order Traversal](first-100/103/main.py) \
+[103. Binary Tree Zigzag Level Order Traversal](first-100/103) \
 [112. Path Sum](first-100/112) \
 [113. Path Sum II](first-100/113) \
 [129. Sum Root to Leaf Numbers](first-100/129) \
