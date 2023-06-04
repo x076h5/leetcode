@@ -89,6 +89,7 @@
 [217. Contains Duplicate](first-100/217) \
 [167. Two Sum II - Input Array Is Sorted](first-100/167) \
 [242. Valid Anagram](first-100/242) \
+[169. Majority Element](first-100/169) \
 [977. Squares of a Sorted Array](first-100/977) \
 [671. Second Minimum Node In a Binary Tree](first-100/671) \
 [11. Container With Most Water](first-100/11) \
