@@ -8,7 +8,7 @@
 [24. Swap Nodes in Pairs](first-100/24) \
 [230. Kth Smallest Element in a BST](first-100/230) \
 [64. Minimum Path Sum](first-100/64) \
-[841. Keys and Rooms](first-100/841.py) \
+[841. Keys and Rooms](first-100/841) \
 [547. Number of Provinces](first-100/547/main.py) \
 [988. Smallest String Starting From Leaf](first-100/988) \
 [323. Number of Connected Components in an Undirected Graph](first-100/323) \
