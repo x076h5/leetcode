@@ -106,7 +106,7 @@
 [1281. Subtract the Product and Sum of Digits of an Integer](first-100/1281/main.py) \
 [1672. Richest Customer Wealth](first-100/1672) \
 [1351. Count Negative Numbers in a Sorted Matrix](first-100/1351/main.py) \
-[1470. Shuffle the Array](first-100/1470.py) \
+[1470. Shuffle the Array](first-100/1470) \
 [1603. Design Parking System](first-100/1603) \
 [1528. Shuffle String](first-100/1528) \
 [1313. Decompress Run-Length Encoded List](first-100/1313) \
