@@ -18,10 +18,10 @@
 [113. Path Sum II](first-100/113) \
 [129. Sum Root to Leaf Numbers](first-100/129) \
 [114. Flatten Binary Tree to Linked List](first-100/114) \
-[257. Binary Tree Paths](first-100/257.py) \
+[257. Binary Tree Paths](first-100/257) \
 [199. Binary Tree Right Side View](first-100/199) \
 [116. Populating Next Right Pointers in Each Node](first-100/116) \
-[257. Binary Tree Paths](first-100/257.py) \
+[257. Binary Tree Paths](first-100/257/main.py) \
 [226. Invert Binary Tree](first-100/226) \
 [876. Middle of the Linked List](first-100/876) \
 [872. Leaf-Similar Trees](first-100/872) \
