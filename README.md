@@ -73,7 +73,7 @@
 [387. First Unique Character in a String](first-100/387) \
 [509. Fibonacci Number](first-100/509) \
 [1137. N-th Tribonacci Number](first-100/1137) \
-[367. Valid Perfect Square](first-100/367.py) \
+[367. Valid Perfect Square](first-100/367) \
 [15. 3Sum](first-100/15) \
 [21. Merge Two Sorted Lists](first-100/21) \
 [209. Minimum Size Subarray Sum](first-100/209) \
