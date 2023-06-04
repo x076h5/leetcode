@@ -18,7 +18,6 @@ class Solution:
 
         while len(queue):
             level_size = len(queue)
-
             for _ in range(level_size):
                 cur, inverted_cur = queue.popleft()
 
@@ -43,5 +42,6 @@ root.right.right = TreeNode(9)
 
 if __name__ == "__main__":
     instance = Solution()
-    print(instance.invertTree(root))
+    res = instance.invertTree(root)
+    print(res)
     print(instance.invertTree({}))
