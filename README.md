@@ -67,7 +67,7 @@
 [374. Guess Number Higher or Lower](first-100/374/main.py) \
 [278. First Bad Version](first-100/278) \
 [234. Palindrome Linked List](first-100/234) \
-[744. Find Smallest Letter Greater Than Target](first-100/744.py) \
+[744. Find Smallest Letter Greater Than Target](first-100/744) \
 [34. Find First and Last Position of Element in Sorted Array](first-100/34) \
 [69. Sqrt(x)](first-100/69) \
 [387. First Unique Character in a String](first-100/387) \
