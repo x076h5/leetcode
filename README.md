@@ -101,7 +101,7 @@
 [1342. Number of Steps to Reduce a Number to Zero](first-100/1342/main.py) \
 [1748. Sum of Unique Elements](first-100/1748) \
 [125. Valid Palindrome](first-100/125) \
-[1491. Average Salary Excluding the Minimum and Maximum Salary](first-100/1491.py) \
+[1491. Average Salary Excluding the Minimum and Maximum Salary](first-100/1491/main.py) \
 [1523. Count Odd Numbers in an Interval Range](first-100/1523.py) \
 [1281. Subtract the Product and Sum of Digits of an Integer](first-100/1281/main.py) \
 [1672. Richest Customer Wealth](first-100/1672) \
