@@ -109,6 +109,7 @@
 [1470. Shuffle the Array](first-100/1470) \
 [1603. Design Parking System](first-100/1603) \
 [1528. Shuffle String](first-100/1528) \
+[1539. Kth Missing Positive Number](first-100/1539) \
 [1313. Decompress Run-Length Encoded List](first-100/1313) \
 [1512. Number of Good Pairs](first-100/1512) \
 [145. Binary Tree Postorder Traversal](first-100/145) \
