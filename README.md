@@ -50,6 +50,7 @@
 [572. Subtree of Another Tree](first-100/572) \
 [70. Climbing Stairs](first-100/70) \
 [53. Maximum Subarray](first-100/53) \
+[1002. Find Common Characters](second-100/1002) \
 [617. Merge Two Binary Trees](first-100/617) \
 [238. Product of Array Except Self](first-100/238) \
 [200. Number of Islands](first-100/200) \
