@@ -45,6 +45,7 @@
 [110. Balanced Binary Tree](first-100/110) \
 [155. Min Stack](first-100/155) \
 [1. Two Sum](first-100/1) \
+[48. Rotate Image](first-100/48) \
 [198. House Robber](first-100/198) \
 [572. Subtree of Another Tree](first-100/572) \
 [70. Climbing Stairs](first-100/70) \
