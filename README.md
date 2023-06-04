@@ -19,7 +19,7 @@
 [129. Sum Root to Leaf Numbers](first-100/129) \
 [114. Flatten Binary Tree to Linked List](first-100/114) \
 [257. Binary Tree Paths](first-100/257.py) \
-[199. Binary Tree Right Side View](first-100/199.py) \
+[199. Binary Tree Right Side View](first-100/199) \
 [116. Populating Next Right Pointers in Each Node](first-100/116) \
 [257. Binary Tree Paths](first-100/257.py) \
 [226. Invert Binary Tree](first-100/226) \
