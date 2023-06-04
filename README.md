@@ -4,7 +4,7 @@
 [1290. Convert Binary Number in a Linked List to Integer](first-100/1290) \
 [207. Course Schedule](first-100/207) \
 [695. Max Area of Island](first-100/695) \
-[463. Island Perimeter](first-100/463.py) \
+[463. Island Perimeter](first-100/463/main.py) \
 [24. Swap Nodes in Pairs](first-100/24) \
 [230. Kth Smallest Element in a BST](first-100/230) \
 [64. Minimum Path Sum](first-100/64) \
