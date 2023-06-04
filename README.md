@@ -29,7 +29,7 @@
 [107. Binary Tree Level Order Traversal II](first-100/107) \
 [1161. Maximum Level Sum of a Binary Tree](first-100/1161) \
 [111. Minimum Depth of Binary Tree](first-100/111) \
-[515. Find Largest Value in Each Tree Row](first-100/515.py) \
+[515. Find Largest Value in Each Tree Row](first-100/515) \
 [637. Average of Levels in Binary Tree](first-100/637.py) \
 [3. Longest Substring Without Repeating Characters](first-100/3) \
 [144. Binary Tree Preorder Traversal](first-100/144) \
