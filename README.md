@@ -95,7 +95,7 @@
 [2351. First Letter to Appear Twice](first-100/2351) \
 [189. Rotate Array](first-100/189) \
 [2300. Successful Pairs of Spells and Potions](first-100/2300.py) \
-[191. Number of 1 Bits](first-100/191.py) \
+[191. Number of 1 Bits](first-100/191) \
 [771. Jewels and Stones](first-100/771) \
 [350. Intersection of Two Arrays II](first-100/350) \
 [1342. Number of Steps to Reduce a Number to Zero](first-100/1342.py) \
