@@ -83,9 +83,9 @@
 [2269. Find the K-Beauty of a Number](first-100/2269.py) \
 [1480. Running Sum of 1d Array](first-100/1480.py) \
 [206. Reverse Linked List](first-100/206) \
-[217. Contains Duplicate](first-100/217.py) \
+[217. Contains Duplicate](first-100/217) \
 [167. Two Sum II - Input Array Is Sorted](first-100/167) \
-[242. Valid Anagram](first-100/242.py) \
+[242. Valid Anagram](first-100/242) \
 [977. Squares of a Sorted Array](first-100/977) \
 [671. Second Minimum Node In a Binary Tree](first-100/671) \
 [11. Container With Most Water](first-100/11) \
