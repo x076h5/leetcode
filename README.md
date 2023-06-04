@@ -25,7 +25,7 @@
 [226. Invert Binary Tree](first-100/226) \
 [876. Middle of the Linked List](first-100/876) \
 [872. Leaf-Similar Trees](first-100/872) \
-[102. Binary Tree Level Order Traversal](first-100/102.py) \
+[102. Binary Tree Level Order Traversal](first-100/102) \
 [107. Binary Tree Level Order Traversal II](first-100/107.py) \
 [1161. Maximum Level Sum of a Binary Tree](first-100/main.py/1161.py) \
 [111. Minimum Depth of Binary Tree](first-100/111) \
