@@ -76,6 +76,7 @@
 [1137. N-th Tribonacci Number](first-100/1137) \
 [367. Valid Perfect Square](first-100/367) \
 [15. 3Sum](first-100/15) \
+[118. Pascal's Triangle](first-100/118) \
 [21. Merge Two Sorted Lists](first-100/21) \
 [209. Minimum Size Subarray Sum](first-100/209) \
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](first-100/1343/1343) \
