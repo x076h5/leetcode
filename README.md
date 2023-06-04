@@ -104,6 +104,7 @@
 [1342. Number of Steps to Reduce a Number to Zero](first-100/1342/main.py) \
 [1748. Sum of Unique Elements](first-100/1748) \
 [125. Valid Palindrome](first-100/125) \
+[746. Min Cost Climbing Stairs](first-100/746) \
 [1491. Average Salary Excluding the Minimum and Maximum Salary](first-100/1491/main.py) \
 [1523. Count Odd Numbers in an Interval Range](first-100/1523) \
 [1281. Subtract the Product and Sum of Digits of an Integer](first-100/1281/main.py) \
