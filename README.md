@@ -20,14 +20,14 @@
 [114. Flatten Binary Tree to Linked List](first-100/114) \
 [257. Binary Tree Paths](first-100/257.py) \
 [199. Binary Tree Right Side View](first-100/199.py) \
-[116. Populating Next Right Pointers in Each Node](first-100/116.py) \
+[116. Populating Next Right Pointers in Each Node](first-100/116) \
 [257. Binary Tree Paths](first-100/257.py) \
 [226. Invert Binary Tree](first-100/226) \
 [876. Middle of the Linked List](first-100/876) \
 [872. Leaf-Similar Trees](first-100/872) \
 [102. Binary Tree Level Order Traversal](first-100/102) \
 [107. Binary Tree Level Order Traversal II](first-100/107) \
-[1161. Maximum Level Sum of a Binary Tree](first-100/main.py/1161.py) \
+[1161. Maximum Level Sum of a Binary Tree](first-100/1161) \
 [111. Minimum Depth of Binary Tree](first-100/111) \
 [515. Find Largest Value in Each Tree Row](first-100/515.py) \
 [637. Average of Levels in Binary Tree](first-100/637.py) \
