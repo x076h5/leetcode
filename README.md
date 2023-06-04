@@ -115,6 +115,7 @@
 [1091. Shortest Path in Binary Matrix](first-100/1091) \
 [1603. Design Parking System](first-100/1603) \
 [1528. Shuffle String](first-100/1528) \
+[1365. How Many Numbers Are Smaller Than the Current Number](first-100/1365) \
 [1207. Unique Number of Occurrences](first-100/1207) \
 [1539. Kth Missing Positive Number](first-100/1539) \
 [1313. Decompress Run-Length Encoded List](first-100/1313) \
