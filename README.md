@@ -117,6 +117,7 @@
 [1091. Shortest Path in Binary Matrix](second-100/1091) \
 [1603. Design Parking System](second-100/1603) \
 [1528. Shuffle String](second-100/1528) \
+[268. Missing Number](second-100/268) \
 [2133. Check if Every Row and Column Contains All Numbers](second-100/2133) \
 [1365. How Many Numbers Are Smaller Than the Current Number](second-100/1365) \
 [1207. Unique Number of Occurrences](second-100/1207) \
