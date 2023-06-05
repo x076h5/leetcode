@@ -136,6 +136,7 @@
 [1486. XOR Operation in an Array](second-100/1486) \
 [1662. Check If Two String Arrays are Equivalent](second-100/1662) \
 [326. Power of Three](first-100/326) \
+[1051. Height Checker](second-100/1051) \
 [231. Power of Two](first-100/231) \
 [1431. Kids With the Greatest Number of Candies](second-100/1431) \
 [412. Fizz Buzz](first-100/412/main.py) \
