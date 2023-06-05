@@ -126,6 +126,7 @@
 [94. Binary Tree Inorder Traversal](first-100/94) \
 [485. Max Consecutive Ones](first-100/485) \
 [322. Coin Change](first-100/322) \
+[14. Longest Common Prefix](first-100/14) \
 [1572. Matrix Diagonal Sum](second-100/1572) \
 [1790. Check if One String Swap Can Make Strings Equal](second-100/1790) \
 [1295. Find Numbers with Even Number of Digits](second-100/1295) \
